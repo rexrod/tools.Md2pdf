@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:xenial
 MAINTAINER Fiware ULPGC <fiware@ulpgc.es>
 
 ENV md2pdf_version 0.2.2
